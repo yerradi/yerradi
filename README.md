@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Youssef Erradi 👋
 
-<!--
-**yerradi/yerradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer | Founder of Smartly.Tools & Yerradi Labs
 
-Here are some ideas to get you started:
+Building AI-powered tools, SaaS products and web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Projects
+
+- Smartly.Tools
+- Yerradi Labs
+- AI Tools
+- SaaS Products
+- Mobile Apps
+
+### 💻 Tech Stack
+
+- ASP.NET MVC
+- C#
+- SQL Server
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+- jQuery
+- Azure
+
+### 🌐 Links
+
+Website: https://smartly.tools
+
+Personal Brand: https://yerradi.com
+
+### 📈 Goals 2026
+
+- Grow Smartly.Tools
+- Launch AI SaaS products
+- Publish Android apps
+- Build Yerradi Labs ecosystem
